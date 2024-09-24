@@ -6,14 +6,14 @@ Aquí encontrarás tutoriales, consejos y recursos que te llevarán desde los fu
 
 **Camino de Obsidiana: Academia de Ciberseguridad**
 
-"Tres cursos para los elfos de la red, ágiles y veloces,
-Siete para los enanos del sistema, firmes y sabios,
-Nueve para los humanos del clic, curiosos y audaces,
-Uno para el Mago de la Seguridad en su torre de vigilancia,
-En el reino digital donde acechan los trolls y los virus.
-Un curso para reunirlos a todos, un curso para entrenarlos,
-Un curso para protegerlos a todos y en la defensa unirlos,
-En el reino digital donde la batalla nunca termina".
+"Tres cursos para los elfos de la red, ágiles y veloces,<br />
+Siete para los enanos del sistema, firmes y sabios, <br />
+Nueve para los humanos del clic, curiosos y audaces,<br />
+Uno para el Mago de la Seguridad en su torre de vigilancia,<br />
+En el reino digital donde acechan los trolls y los virus.<br />
+Un curso para reunirlos a todos, un curso para entrenarlos,<br />
+Un curso para protegerlos a todos y en la defensa unirlos,<br />
+En el reino digital donde la batalla nunca termina".<br />
 
 **¿Quieres entrar al mundo de la ciberseguridad, el hacking ético y la informática, pero no sabes por dónde empezar? ¿Sueñas con desentrañar los misterios del código y proteger sistemas de intrusos? ¡Entonces has encontrado tu camino!**
 
