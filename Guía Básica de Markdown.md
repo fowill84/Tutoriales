@@ -151,8 +151,3 @@ El libro propone un enfoque distinto a lo común, en el cual se guiará al lecto
 
 **2. "The Hacker Playbook: Practical Guide To Penetration Testing"** de **Peter Kim**: Al igual que un atleta profesional no se presenta sin un plan de juego sólido, los hackers éticos, profesionales de TI e investigadores de seguridad tampoco deberían estar desprevenidos. **The Hacker Playbook** les proporciona sus propios planes de juego. Escrito por un experimentado profesional de seguridad y CEO de Secure Planet, LLC, esta guía paso a paso sobre el "juego" del hacking de penetración incluye ejemplos prácticos y consejos útiles de los mejores expertos del campo. A través de una serie de "jugadas" al estilo del fútbol americano, esta guía directa aborda muchos de los obstáculos que las personas pueden enfrentar al realizar pruebas de penetración, incluidos los ataques a diferentes tipos de redes, pivotar a través de controles de seguridad y evadir software antivirus.
 
-
- 
-
-
-
