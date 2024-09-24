@@ -1,4 +1,4 @@
-**1. ¿Qué es Markdown?**
+# 1. ¿Qué es Markdown?
 
 Markdown **no es un lenguaje de programación**, sino un **lenguaje de marcado ligero**, lo que significa que se utiliza para dar formato y estructura a un texto plano de manera sencilla, utilizando símbolos y caracteres especiales. 
 
@@ -12,21 +12,20 @@ Por ejemplo, si a la palabra "ciberseguridad" le agragamos ** antes y despúes d
 
 Es como escribir un mensaje de texto pero con superpoderes para que se vea estético y bien organizado.
 
-**2. ¿Qué es un archivo README?**
+# **2. ¿Qué es un archivo README?**
 
 **Un archivo README en GitHub es la tarjeta de presentación de tu proyecto**. Es un documento esencial que proporciona una visión general, instrucciones de instalación y uso, y otra información clave para ayudar a los usuarios y colaboradores a entender y aprovechar tu proyecto. 
 
 **Piensa en él como un manual de instrucciones y una invitación a participar en tus proyectos.** 
 
-**3. Atajos más comunes**
+# **3. Atajos más comunes**
 
 **NOTA:** Si queremos que el símbolo o caracter se muestre sin que sea visualizado como Markdown (sin que se aplique el estilo), podemos escapar al atajo anteponiendo \ , por ejemplo, \\# (aquí tuve que aplicar doble \\\ para que no aplique el estilo)
 
-**TÍTULOS** (Headers)
+## **TÍTULOS** (Headers)
 
 Para escribir Títulos (Headers) se antepone de 1 a 6 almohadillas (hash) # dependiendo de la jerarquía que tenga el texto que queremos estilizar.</br>
-El elemento de mayor jerarquía será el que tengan menos # </br>
-Los títulos siempre quedan con una línea debajo de la palabra.
+El elemento de mayor jerarquía será el que tengan menos # 
 
 \# Título de nivel 1 
 # Título de nivel 1 
@@ -43,12 +42,12 @@ Los títulos siempre quedan con una línea debajo de la palabra.
 \##### Título de nivel 5
 ##### Título de nivel 5 
 
-**ITÁLICA (CURSIVA) y NEGRITA**
+## **ITÁLICA (CURSIVA) y NEGRITA**
 
 **Itálicas:** Asterisco * o un guion bajo _ antes y después de lo que queremos estilizar.</br>
 **Negritas:** Doble asterisco ** o doble guión bajo __ antes y después de lo que queremos estilizar.
 
-**CITAS RESALTADAS O DESTACADAS**
+## **CITAS RESALTADAS O DESTACADAS**
 
 Anteponer \> al inicio de la cita
 
