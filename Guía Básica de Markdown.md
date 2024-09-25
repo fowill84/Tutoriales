@@ -184,3 +184,22 @@ Añade & al principio y ; al final la sintaxis de espacio sugerida anteriormente
 &emsp; **"La humildad es esencial en el mundo de la seguridad. Nunca te creas invencible, siempre hay algo nuevo por aprender".** - **Kevin Mitnick**  
 
 ¡Gracias al colaborador Muhammad Tariq por este dato!
+
+## **Cambiar el color del texto**
+
+Podemos usar la siguiente línea de atajos quitando las comillas del inicio y final: "$\color{green}{\text{AQUÍ VA TU TEXTO}}$"
+
+**Y esto se ve así:** $\color{green}{\text{AQUÍ VA TU TEXTO}}$
+
+**Colores:**
+* green $\color{green}{\text{green}}$  
+* blue $\color{blue}{\text{azul}}$  
+* red $\color{red}{\text{rojo}}$  
+* black $\color{black}{\text{negro}}$  
+* pink $\color{pink}{\text{rosa}}$  
+* orange $\color{orange}{\text{naranjo}}$  
+
+Prueba otros colores...
+
+
+
