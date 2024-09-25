@@ -12,10 +12,10 @@
 &emsp; [**CASILLAS DE VERIFICACIÓN** (checkbox)](#casillas-de-verificación-checkbox)  
 &emsp; [**SALTO DE LÍNEA**](#salto-de-línea)   
 &emsp; [**LÍNEA DE SEPARADOR**](#línea-de-separador)      
-&emsp; [**Agregar una Imagen**](#agregar-una-imagen)    
-&emsp; [**Tabulación o Espacios antes de una línea**](#tabulación-o-espacios-antes-de-una-línea)    
-&emsp; [**Cambiar el color del texto**](#cambiar-el-color-del-texto)    
-&emsp; [**Sí, también puedes usar Emojis**](#sí-también-puedes-usar-emojis)    
+&emsp; [**AGREGAR UNA IMAGEN**](#agregar-una-imagen)    
+&emsp; [**TABULACIÓN O ESPACIOS ANTES DE UNA LÍNEA**](#tabulación-o-espacios-antes-de-una-línea)    
+&emsp; [**CAMBIAR EL COLOR DEL TEXTO**](#cambiar-el-color-del-texto)    
+&emsp; [**SÍ, TAMBIÉN PUEDES USAR EMOJIS**](#sí-también-puedes-usar-emojis)    
 
 # 1. ¿Qué es Markdown?
 
@@ -30,6 +30,8 @@ Markdown posee un conjunto de **atajos para darle formato a tus textos**. En lug
 Por ejemplo, si a la palabra "ciberseguridad" le agragamos ** antes y despúes de la palabra, queda así: "**ciberseguridad**"
 
 Es como escribir un mensaje de texto pero con superpoderes para que se vea estético y bien organizado.
+
+[INDEX](#index)
 
 # **2. ¿Qué es un archivo README?**
 
