@@ -1,5 +1,8 @@
 # GUÍA BÁSICA DE MARKDOWN
 
+[Defines](#defines)
+
+
 ## INDEX
 
 ### 1. ¿Qué es Markdown?
@@ -12,6 +15,8 @@
 ### &emsp; **3.5 CASILLAS DE VERIFICACIÓN** (checkbox)
 ### &emsp; **3.6 SALTO DE LÍNEA** 
 ### &emsp; **3.7 LÍNEA DE SEPARADOR** 
+
+# 1. ¿Qué es Markdown?
 
 Markdown **no es un lenguaje de programación**, sino un **lenguaje de marcado ligero**, lo que significa que se utiliza para dar formato y estructura a un texto plano de manera sencilla, utilizando símbolos y caracteres especiales. 
 
@@ -164,6 +169,15 @@ El libro propone un enfoque distinto a lo común, en el cual se guiará al lecto
 
 **2. "The Hacker Playbook: Practical Guide To Penetration Testing"** de **Peter Kim**: Al igual que un atleta profesional no se presenta sin un plan de juego sólido, los hackers éticos, profesionales de TI e investigadores de seguridad tampoco deberían estar desprevenidos. **The Hacker Playbook** les proporciona sus propios planes de juego. Escrito por un experimentado profesional de seguridad y CEO de Secure Planet, LLC, esta guía paso a paso sobre el "juego" del hacking de penetración incluye ejemplos prácticos y consejos útiles de los mejores expertos del campo. A través de una serie de "jugadas" al estilo del fútbol americano, esta guía directa aborda muchos de los obstáculos que las personas pueden enfrentar al realizar pruebas de penetración, incluidos los ataques a diferentes tipos de redes, pivotar a través de controles de seguridad y evadir software antivirus.
 
+## **Agregar una Imagen**
+
+Usa la siguiente secuencia: \![Titulo de la imagen]\(url_de_la_imagen)
+
+Esto se vería así:
+#### Richard Stallman: Padre del Software Libre  
+![Richard Stallman](https://www.muylinux.com/wp-content/uploads/2013/06/rms.jpg)
+
+
 ## **Tabulación o Espacios antes de una línea**
 
 Si queremos anteponer una tabulación o espacios antes de una línea usamos:
@@ -201,5 +215,13 @@ Podemos usar la siguiente línea de atajos quitando las comillas del inicio y fi
 
 Prueba otros colores...
 
+# Para experimentar...
 
+**Automizar escritura de documentos técnicos con Markdown:** jsdoc-to-markdown es una herramienta de línea de comandos y una biblioteca de Node.js que te permite generar automáticamente documentación en formato Markdown a partir de los comentarios JSDoc en tu código JavaScript.  es una herramienta de Node.js, lo que significa que se puede instalar y utilizar tanto en Windows como en Linux, siempre y cuando tengas Node.js y npm (Node Package Manager) instalados en tu sistema.
+
+### Defines
+
+El proceso de instalación es el mismo en ambos sistemas operativos:  
+* Instalar Node.js y npm: Si aún no los tienes, descárgalos e instálalos desde el sitio web oficial de Node.js: https://nodejs.org/
+* Instalar jsdoc-to-markdown: Una vez que tengas Node.js y npm, abre tu terminal o línea de comandos y ejecuta el siguiente comando: npm install -g jsdoc-to-markdown 
 
