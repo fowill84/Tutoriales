@@ -1,14 +1,11 @@
 # GUÍA BÁSICA DE MARKDOWN
 
-[Defines](#defines)
-
-
 ## INDEX
 
-### 1. ¿Qué es Markdown?
+[1. ¿Qué es Markdown?](#1-qué-es-markdown)
 [2. ¿Qué es un archivo README?](#2-qué-es-un-archivo-readme)
-### 3. Atajos más comunes
-### &emsp; **3.1 TÍTULOS** (Headers)
+[3. Atajos más comunes](#3-atajos-más-comunes)
+### &emsp; [**3.1 TÍTULOS** (Headers)](#-31-títulos-headers)
 ### &emsp; **3.2 ITÁLICA (CURSIVA) y NEGRITA**
 ### &emsp; **3.3 CITAS RESALTADAS O DESTACADAS**
 ### &emsp; **3.4 LISTAS**
@@ -218,8 +215,6 @@ Prueba otros colores...
 # Para experimentar...
 
 **Automizar escritura de documentos técnicos con Markdown:** jsdoc-to-markdown es una herramienta de línea de comandos y una biblioteca de Node.js que te permite generar automáticamente documentación en formato Markdown a partir de los comentarios JSDoc en tu código JavaScript.  es una herramienta de Node.js, lo que significa que se puede instalar y utilizar tanto en Windows como en Linux, siempre y cuando tengas Node.js y npm (Node Package Manager) instalados en tu sistema.
-
-### Defines
 
 El proceso de instalación es el mismo en ambos sistemas operativos:  
 * Instalar Node.js y npm: Si aún no los tienes, descárgalos e instálalos desde el sitio web oficial de Node.js: https://nodejs.org/
