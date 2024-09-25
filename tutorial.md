@@ -1,4 +1,4 @@
-[TÍTULO 1](#titulo-1)
+[TITULO 1](#titulo-1)
 [EJEMPLO DE ENLACES](#ejemplo-de-enlaces)
 
 
