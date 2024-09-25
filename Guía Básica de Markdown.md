@@ -31,17 +31,20 @@ Por ejemplo, si a la palabra "ciberseguridad" le agragamos ** antes y despúes d
 
 Es como escribir un mensaje de texto pero con superpoderes para que se vea estético y bien organizado.
 
-VOLVER [INDEX](#index)
+**VOLVER AL** [**INDEX**](#index)
 
 # **2. ¿Qué es un archivo README?**
 
 **Un archivo README en GitHub es la tarjeta de presentación de tu proyecto**. Es un documento esencial que proporciona una visión general, instrucciones de instalación y uso, y otra información clave para ayudar a los usuarios y colaboradores a entender y aprovechar tu proyecto. 
 
 **Piensa en él como un manual de instrucciones y una invitación a participar en tus proyectos.** 
+**VOLVER AL** [**INDEX**](#index)
 
 # **3. Atajos más comunes**
 
 **NOTA:** Si queremos que el símbolo o caracter se muestre sin que sea visualizado como Markdown (sin que se aplique el estilo), podemos escapar al atajo anteponiendo \ , por ejemplo, \\# (aquí tuve que aplicar doble \\\ para que no aplique el estilo)
+
+**VOLVER AL** [**INDEX**](#index)
 
 ## **TÍTULOS** (Headers)
 
@@ -63,16 +66,23 @@ El elemento de mayor jerarquía será el que tengan menos #
 \##### Título de nivel 5
 ##### Título de nivel 5 
 
+**VOLVER AL** [**INDEX**](#index)
+
 ## **ITÁLICA (CURSIVA) y NEGRITA**
 
 **Itálicas:** Asterisco * o un guion bajo _ antes y después de lo que queremos estilizar.</br>
 **Negritas:** Doble asterisco ** o doble guión bajo __ antes y después de lo que queremos estilizar.
+
+**VOLVER AL** [**INDEX**](#index)
 
 ## **CITAS RESALTADAS O DESTACADAS**
 
 Anteponer \> al inicio de la cita
 
 >**"The quieter you become the more you are able to hear" - Kali Linux**
+
+
+**VOLVER AL** [**INDEX**](#index)
 
 ## **LISTAS**
 
@@ -100,6 +110,8 @@ Puedes hacer una lista de elementos usando \* o los numerales seguidos de . , es
 Hakin9: Una revista que ofrece tutoriales, artículos técnicos y noticias sobre seguridad informática y hacking ético. **LINK:** https://www.2600.com/
 
 **3. PenTest Magazine:** Una revista enfocada en pruebas de penetración y hacking ético, con artículos técnicos y entrevistas a expertos en seguridad. **LINK:** https://pentestmag.com/
+
+**VOLVER AL** [**INDEX**](#index)
 
 ## **CASILLAS DE VERIFICACIÓN** (checkbox)
 
@@ -145,6 +157,8 @@ Para la casilla se usa la siguiente sintaxis:</br>
 
 **Recuerda:** La respuesta a incidentes de malware requiere una acción rápida y coordinada. Sigue esta lista de chequeo para minimizar el impacto y recuperarte de la intrusión de manera efectiva. 
 
+**VOLVER AL** [**INDEX**](#index)
+
 ## **SALTO DE LÍNEA** 
 
 Establecer un salto de línea, es decir, después del final de una línea de texto empezar una nueva más abajo.
@@ -152,11 +166,13 @@ Establecer un salto de línea, es decir, después del final de una línea de tex
 **Opción 1:** Simplemente añade dos espacios al final de la línea donde quieres que ocurra el salto.  
 **Opción 2:** Usar la etiqueta HTML \</br> al final de la línea (ej. salto de línea\</br>) para insertar un salto de línea.
 
+**VOLVER AL** [**INDEX**](#index)
+
 ## **LÍNEA DE SEPARADOR** 
 
 Podemos usar una línea para separar un párrafo o una sección de otra, usando 3 guiones seguidos (\---) entre un párrafo y otro.
 
-**Uso:** 
+**Uso:**   
 Párrafo 1  
 \---  
 Párrafo 2  
@@ -172,6 +188,8 @@ El libro propone un enfoque distinto a lo común, en el cual se guiará al lecto
 
 **2. "The Hacker Playbook: Practical Guide To Penetration Testing"** de **Peter Kim**: Al igual que un atleta profesional no se presenta sin un plan de juego sólido, los hackers éticos, profesionales de TI e investigadores de seguridad tampoco deberían estar desprevenidos. **The Hacker Playbook** les proporciona sus propios planes de juego. Escrito por un experimentado profesional de seguridad y CEO de Secure Planet, LLC, esta guía paso a paso sobre el "juego" del hacking de penetración incluye ejemplos prácticos y consejos útiles de los mejores expertos del campo. A través de una serie de "jugadas" al estilo del fútbol americano, esta guía directa aborda muchos de los obstáculos que las personas pueden enfrentar al realizar pruebas de penetración, incluidos los ataques a diferentes tipos de redes, pivotar a través de controles de seguridad y evadir software antivirus.
 
+**VOLVER AL** [**INDEX**](#index)
+
 ## **Agregar una Imagen**
 
 Usa la siguiente secuencia: \![Titulo de la imagen]\(url_de_la_imagen)
@@ -179,6 +197,8 @@ Usa la siguiente secuencia: \![Titulo de la imagen]\(url_de_la_imagen)
 Esto se vería así:
 #### Richard Stallman: Padre del Software Libre  
 ![Richard Stallman](https://www.muylinux.com/wp-content/uploads/2013/06/rms.jpg)
+
+**VOLVER AL** [**INDEX**](#index)
 
 
 ## **Tabulación o Espacios antes de una línea**
@@ -201,6 +221,8 @@ Añade & al principio y ; al final la sintaxis de espacio sugerida anteriormente
 &emsp; **"La humildad es esencial en el mundo de la seguridad. Nunca te creas invencible, siempre hay algo nuevo por aprender".** - **Kevin Mitnick**  
 
 ¡Gracias al colaborador Muhammad Tariq por este dato!
+
+**VOLVER AL** [**INDEX**](#index)
 
 ## **Cambiar el color del texto**
 
@@ -231,3 +253,4 @@ El proceso de instalación es el mismo en ambos sistemas operativos:
 * Instalar Node.js y npm: Si aún no los tienes, descárgalos e instálalos desde el sitio web oficial de Node.js: https://nodejs.org/
 * Instalar jsdoc-to-markdown: Una vez que tengas Node.js y npm, abre tu terminal o línea de comandos y ejecuta el siguiente comando: npm install -g jsdoc-to-markdown 
 
+**VOLVER AL** [**INDEX**](#index)
