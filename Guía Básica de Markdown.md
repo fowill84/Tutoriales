@@ -6,7 +6,7 @@
 ## INDEX
 
 ### 1. ¿Qué es Markdown?
-[2. ¿Qué es un archivo README?](#2-qué-es-un-archivo-readme)
+### [2. ¿Qué es un archivo README?](#2-qué-es-un-archivo-readme)
 ### 3. Atajos más comunes
 ### &emsp; **3.1 TÍTULOS** (Headers)
 ### &emsp; **3.2 ITÁLICA (CURSIVA) y NEGRITA**
