@@ -11,7 +11,11 @@
 &emsp; [**LISTAS**](#-34-listas)  
 &emsp; [**CASILLAS DE VERIFICACIÓN** (checkbox)](#casillas-de-verificación-checkbox)  
 &emsp; [**SALTO DE LÍNEA**](#salto-de-línea)   
-&emsp; [**LÍNEA DE SEPARADOR**](#línea-de-separador)    
+&emsp; [**LÍNEA DE SEPARADOR**](#línea-de-separador)      
+&emsp; [**Agregar una Imagen**](#agregar-una-imagen)    
+&emsp; [**Tabulación o Espacios antes de una línea**](#tabulación-o-espacios-antes-de-una-línea)    
+&emsp; [**Cambiar el color del texto**](#cambiar-el-color-del-texto)    
+&emsp; [**Sí, también puedes usar Emojis**](#sí-también-puedes-usar-emojis)    
 
 # 1. ¿Qué es Markdown?
 
