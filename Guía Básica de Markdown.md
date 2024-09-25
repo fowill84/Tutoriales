@@ -212,6 +212,11 @@ Podemos usar la siguiente línea de atajos quitando las comillas del inicio y fi
 
 Prueba otros colores...
 
+🙃 ## **Sí, también puedes usar Emojis**
+
+Para usar emojis simplemente escribes : y luego la inicial o código completo del smiley.  
+Puedes encontrar un listado muy completo de emojis para Markdown aquí: https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+
 # Para experimentar...
 
 **Automizar escritura de documentos técnicos con Markdown:** jsdoc-to-markdown es una herramienta de línea de comandos y una biblioteca de Node.js que te permite generar automáticamente documentación en formato Markdown a partir de los comentarios JSDoc en tu código JavaScript.  es una herramienta de Node.js, lo que significa que se puede instalar y utilizar tanto en Windows como en Linux, siempre y cuando tengas Node.js y npm (Node Package Manager) instalados en tu sistema.
